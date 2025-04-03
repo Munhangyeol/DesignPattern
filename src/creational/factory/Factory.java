@@ -2,12 +2,15 @@ package creational.factory;
 
 abstract class Factory {
 
-    final IProduct createProduct(){
-      IProduct iProduct=creatConcreteProduct();
+
+
+
+    final IProduct createProduct(String name,int price){
+      IProduct iProduct=creatConcreteProduct(name,price);
       iProduct.initilize();
       return iProduct;
 
     }
-    abstract protected IProduct creatConcreteProduct();
+    abstract protected IProduct creatConcreteProduct(String name,int price);
     
 }
