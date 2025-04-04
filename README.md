@@ -21,8 +21,8 @@
 
 이름 그대로 객체나 인스턴스, 인터페이스를 **생성 하는 패턴이다.**
 
-- **SingleTon**
-- **Factory Method**
+- [**Singleton**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/singleton/readme.md)
+- [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/factory/readme.md)
 - **Abstract Factory**
 - **Builder**
 - **Prototype**
@@ -44,7 +44,7 @@
 객체가 하는 행위에 대해서 결합도를 낮추기 위해 사용하는 패턴이다.
 
 - **Observer**
-- **Strategy**
+- [**Strategy**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/behavior/strategy/readme.md)
 - **Command**
 - **State**
 - **Chain of Responsibility**
