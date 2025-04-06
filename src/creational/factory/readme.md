@@ -102,8 +102,8 @@ package creational.factory;
 public class Main {
     public static void main(String[] args) {
         Factory[] factories={new FactoryA(),new FactoryB()};
-        IProduct productA=factories[0].creatConcreteProduct("선풍기", 10000);
-        IProduct productB= factories[1].creatConcreteProduct("짜장면", 30000);
+        IProduct productA=factories[0].createProduct("선풍기", 10000);
+        IProduct productB= factories[1].createProduct("짜장면", 30000);
     }
     
 }
