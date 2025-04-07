@@ -1,4 +1,7 @@
-package creational.factory;
+package creational.factory_method.factory;
+
+import creational.factory_method.product.IProduct;
+import creational.factory_method.product.ProductA;
 
 public class FactoryA extends Factory{
 
@@ -6,7 +9,7 @@ public class FactoryA extends Factory{
         static FactoryA instance=new FactoryA();
     }
 
-    static FactoryA getInstance(){
+    public static FactoryA getInstance(){
         return FactoryAHelper.instance;
     }
 

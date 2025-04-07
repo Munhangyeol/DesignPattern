@@ -1,11 +1,14 @@
-package creational.factory;
+package creational.factory_method.factory;
+
+import creational.factory_method.product.IProduct;
+import creational.factory_method.product.ProductB;
 
 public class FactoryB extends Factory{
     static class FactoryBHelper{
         static FactoryB instance=new FactoryB();
     }
 
-    static FactoryB getInstance(){
+    static public FactoryB getInstance(){
         return FactoryBHelper.instance;
     }
     @Override

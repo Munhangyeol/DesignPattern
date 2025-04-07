@@ -1,11 +1,13 @@
-package creational.factory;
+package creational.factory_method.factory;
 
-abstract class Factory {
+import creational.factory_method.product.IProduct;
+
+public abstract class Factory {
 
 
 
 
-    final IProduct createProduct(String name,int price){
+    public final IProduct createProduct(String name,int price){
       IProduct iProduct=creatConcreteProduct(name,price);
       iProduct.initilize();
       return iProduct;
