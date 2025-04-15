@@ -24,7 +24,7 @@
 - [**Singleton**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/singleton/readme.md)
 - [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/factory/readme.md)
 - [**Abstract Factory**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/abstract_factory)
-- **Builder**
+- [**Builder**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/builder)
 - **Prototype**
 
 ### **구조 패턴**
