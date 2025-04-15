@@ -22,7 +22,7 @@
 이름 그대로 객체나 인스턴스, 인터페이스를 **생성 하는 패턴이다.**
 
 - [**Singleton**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/singleton/readme.md)
-- [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/factory/readme.md)
+- [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/factory_method)
 - [**Abstract Factory**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/abstract_factory)
 - [**Builder**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/builder)
 - **Prototype**
