@@ -22,6 +22,19 @@ public class Main {
 
        Nums num5=new Nums(1,2,3,4,5,0,0);
 
+       Nums num6=new Nums();
+       num6.setNum1(1);
+       num6.setNum2(2);
+       num6.setNum3(3);
+
+       System.out.println(num1);
+       System.out.println(num2);
+       System.out.println(num3);
+       System.out.println(num4);
+       System.out.println(num5);
+       System.out.println(num6);
+
+
 
 
     }
