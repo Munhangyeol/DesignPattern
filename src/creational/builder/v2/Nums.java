@@ -1,4 +1,4 @@
-package creational.builder;
+package creational.builder.v2;
 
 
 //점층적 생성자 패턴
