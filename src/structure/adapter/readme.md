@@ -10,6 +10,7 @@
 어댑터 패턴에는 크게 어댑티를 객체로 의존시켜서 구현하는 **객체 어댑터 패턴**, 어댑티를 상속하는 어댑터를 구현해서 만드는 **클래스 어댑터 패턴**이 존재한다.
 
 ### 객체 어댑터
+![](https://velog.velcdn.com/images/msw0909/post/be6d7425-0fed-436f-b7c7-62e63aa95263/image.png)
 
 - 객체가 객체를 의존 시켜서, 즉 **합성**시켜서 어댑터 패턴을 이용하는 방식이다.
 
@@ -55,7 +56,8 @@ public interface Target {
 ```
 
 ### 클래스 어댑터
-![](https://velog.velcdn.com/images/msw0909/post/592ac41f-5fe0-4e38-bf58-f71265fa0761/image.png)
+![image](https://github.com/user-attachments/assets/33f67e5b-9897-4007-b525-310173ad67d8)
+
 객체 어댑터가 합성을 통해서 어댑터를 구현했다면 클래스 어댑터는 **상속**을 통해서 어댑터를 구현한다.
 
 - DI를 하지 않아도, 어댑터를 구현할 수 있고, 객체 어댑터와 달리 컴파일 시점에서 어댑터의 관계가 결정된다.
