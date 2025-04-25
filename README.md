@@ -25,13 +25,13 @@
 - [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/factory_method)
 - [**Abstract Factory**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/abstract_factory)
 - [**Builder**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/builder)
-- [**Prototype**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/structure/adapter/readme.md)
+- **Prototype**
 
 ### **구조 패턴**
 
 유지 보수성을 위해서 기존의 구조를 변경하는 패턴이다.
 
-- **Adapter**
+- [**Adapter**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/structure/adapter/readme.md)
 - **Bridge**
 - **Composite**
 - **Decorator**
