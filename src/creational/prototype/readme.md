@@ -95,7 +95,7 @@ public class Circle implements Cloneable {
 
 - new로 생성하는 비용이 크거나 복잡할 때 → 복제해서 빠르게 생성하고 싶을 때
 
-- 각 객체가 독립적인 상태를 가져야 할 때![](https://velog.velcdn.com/images/msw0909/post/fb76cbfd-3bf6-4eb1-a959-c8c4a7a45605/image.png)
+- 각 객체가 독립적인 상태를 가져야 할 때
 
 - 객체를 매번 새로 생성하지 않고 기존 상태를 복제해서 사용하고 싶을 때
 
