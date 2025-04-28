@@ -25,7 +25,7 @@
 - [**Factory Method**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/factory_method)
 - [**Abstract Factory**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/abstract_factory)
 - [**Builder**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/creational/builder)
-- **Prototype**
+- [**Prototype**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/creational/prototype/readme.md)
 
 ### **구조 패턴**
 
