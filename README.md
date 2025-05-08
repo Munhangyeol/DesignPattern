@@ -32,7 +32,7 @@
 유지 보수성을 위해서 기존의 구조를 변경하는 패턴이다.
 
 - [**Adapter**](https://github.com/Munhangyeol/DesignPattern/blob/main/src/structure/adapter/readme.md)
-- **Bridge**
+- [**Bridge**](https://github.com/Munhangyeol/DesignPattern/tree/main/src/structure/bridge)
 - **Composite**
 - **Decorator**
 - **Facade**
