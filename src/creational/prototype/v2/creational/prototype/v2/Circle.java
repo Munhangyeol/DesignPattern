@@ -3,7 +3,6 @@ package creational.prototype.v2;
 import java.util.ArrayList;
 import java.util.List;
 
-import structure.bridge.v1.Shape;
 
 public class Circle implements Shape {
 

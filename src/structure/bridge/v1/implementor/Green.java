@@ -1,3 +1,4 @@
+package src.structure.bridge.v1.implementor;
 
 public class Green implements Color {
 

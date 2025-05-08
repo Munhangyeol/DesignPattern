@@ -1,3 +1,6 @@
+package src.structure.bridge.v1.abstractor;
+
+import src.structure.bridge.v1.implementor.Color;
 
 public class Rectangle extends Shape {
 
